@@ -33,7 +33,11 @@ Streamlit is an app framework specifically for Machine Learning and Data Science
 * How to run the program
 ```$ streamlit run streamapp.py```
 
-<img src=""
+<img src="https://github.com/Mchilamwar/Binary-Classification-Visualiser-using-StreamLit/blob/main/SS/bcs.png?raw=true"/>
+<img src="https://github.com/Mchilamwar/Binary-Classification-Visualiser-using-StreamLit/blob/main/SS/bcs2.png?raw=true"/>
+<img src="https://github.com/Mchilamwar/Binary-Classification-Visualiser-using-StreamLit/blob/main/SS/bcs3.png?raw=true"/>
+<img src="https://github.com/Mchilamwar/Binary-Classification-Visualiser-using-StreamLit/blob/main/SS/bcs4.png?raw=true"/>
+
 
 *Check out the link for the further Documentation of installation and excecution<br>
 <a href='https://docs.streamlit.io/en/latest/getting_started.html'>https://docs.streamlit.io/en/latest/getting_started.html</a>
