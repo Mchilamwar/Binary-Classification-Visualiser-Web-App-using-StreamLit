@@ -1,6 +1,7 @@
 # Binary Classifier Visualization Web app Using StreamLit <img src="https://th.bing.com/th/id/R1545eb5bf5ed66265540f7bdc7adadb4?rik=UHdtH9BRR2cogA&pid=ImgRaw" width=200/>
 
-This project is the classifier visualization web app developed using <b> Python</b> Library <b>Streamlit</b>.
+This project is the classifier visualization web app developed using <b> Python</b> Library <b>Streamlit</b>.<br>
+<a href="https://binary-classifier-streamlit.herokuapp.com/">This App is Live Here</a>
 
 ## Description
 Streamlit is an app framework specifically for Machine Learning and Data Science teams. It is the fastest way to build custom ML tools and stop spending time on frontend development and get back to the ML work.This web application allows the user to upload raw data and can select the problem solver for the classification problem which are<br>
